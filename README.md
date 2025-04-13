@@ -3,4 +3,5 @@
 
 
 Overview:
-Tthis project demonstrates the deployment of 
+This project demonstrates the deployment of a 3-tier web application using Terraform to provision and manage the infrastructure. The architecture comprises a presentation tier, an application tier, and a data tier, ensuring a scalable, secure, and highly available system.
+
